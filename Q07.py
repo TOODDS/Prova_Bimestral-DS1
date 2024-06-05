@@ -7,4 +7,4 @@ if m >= 6:
     situacao = "aprovado"
 else:
     situacao = "reprovado"
-print(f'{nome} está {situacao} na disciplina de {materia} com a média {m}')
+print(f'{nome} está {situacao} na disciplina de {materia}')
